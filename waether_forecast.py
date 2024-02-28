@@ -23,4 +23,4 @@ class ObHavoMalumotu:
                 raise ObHavoMalumotiTopilmadi("bunday hudud topilmadi, to'g'ri yozganingizni tekshiring yoki Ob_Havo('yordam').malumot() funksiyasidan foydalaning")
             
 
-print(ObHavoMalumotu("dwaf").olish())
+print(ObHavoMalumotu("tashkent").olish())
